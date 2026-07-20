@@ -1,0 +1,1111 @@
+{
+ "big": {
+  "known": [
+   {
+    "q": "What is the capital of China?",
+    "r": "The capital of China is **Beijing**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Russia?",
+    "r": "The capital of Russia is **Moscow**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of India?",
+    "r": "The capital of India is **New Delhi**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Brazil?",
+    "r": "The capital of Brazil is **Bras\u00edlia**.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Mexico?",
+    "r": "The capital of Mexico is **Mexico City**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Netherlands?",
+    "r": "The capital of the Netherlands is **Amsterdam**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Switzerland?",
+    "r": "The capital of Switzerland is **Bern**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ukraine?",
+    "r": "The capital of Ukraine is **Kyiv** (also spelled **Kiev**).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Romania?",
+    "r": "The capital of Romania is **Bucharest**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Bulgaria?",
+    "r": "The capital of Bulgaria is **Sofia**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Serbia?",
+    "r": "The capital of Serbia is **Belgrade**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Slovakia?",
+    "r": "The capital of Slovakia is **Bratislava**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Slovenia?",
+    "r": "The capital of Slovenia is **Ljubljana**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Lithuania?",
+    "r": "The capital of Lithuania is **Vilnius**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Latvia?",
+    "r": "The capital of Latvia is **Riga**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Estonia?",
+    "r": "The capital of Estonia is **Tallinn**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Luxembourg?",
+    "r": "The capital of Luxembourg is **Luxembourg City**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Cyprus?",
+    "r": "The capital of Cyprus is **Nicosia**. It is also the largest city in the country and serves as the political, cultural, and economic center of",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Malta?",
+    "r": "The capital of Malta is **Valletta**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Albania?",
+    "r": "The capital of Albania is **Tirana**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Morocco?",
+    "r": "The capital of Morocco is **Rabat**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Algeria?",
+    "r": "The capital of Algeria is **Algiers**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Tunisia?",
+    "r": "The capital of Tunisia is **Tunis**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Nigeria?",
+    "r": "The capital of Nigeria is **Abuja**. It became the capital in 1991, replacing Lagos as the political center of the country.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Kenya?",
+    "r": "The capital of Kenya is **Nairobi**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ethiopia?",
+    "r": "The capital of Ethiopia is **Addis Ababa**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ghana?",
+    "r": "The capital of Ghana is **Accra**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Senegal?",
+    "r": "The capital of Senegal is **Dakar**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Tanzania?",
+    "r": "The capital of Tanzania is **Dar es Salaam**.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Uganda?",
+    "r": "The capital of Uganda is **Kampala**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Zambia?",
+    "r": "The capital of Zambia is **Lusaka**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Zimbabwe?",
+    "r": "The capital of Zimbabwe is **Harare**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Botswana?",
+    "r": "The capital of Botswana is **Gaborone**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Namibia?",
+    "r": "The capital of Namibia is **Windhoek**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Angola?",
+    "r": "The capital of Angola is **Luanda**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Peru?",
+    "r": "The capital of Peru is **Lima**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Colombia?",
+    "r": "The capital of Colombia is **Bogot\u00e1**.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Venezuela?",
+    "r": "The capital of Venezuela is **Caracas**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ecuador?",
+    "r": "The capital of Ecuador is **Quito**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Bolivia?",
+    "r": "The capital of Bolivia is **La Paz**.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Uruguay?",
+    "r": "The capital of Uruguay is **Montevideo**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Paraguay?",
+    "r": "The capital of Paraguay is **Asunci\u00f3n**.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Vietnam?",
+    "r": "The capital of Vietnam is **Hanoi**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Indonesia?",
+    "r": "The capital of Indonesia is **Jakarta**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Philippines?",
+    "r": "The capital of the Philippines is **Manila**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Singapore?",
+    "r": "The capital of Singapore is **Singapore City**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Bangladesh?",
+    "r": "The capital of Bangladesh is **Dhaka**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Pakistan?",
+    "r": "The capital of Pakistan is **Islamabad**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Sri Lanka?",
+    "r": "The capital of Sri Lanka is **Sri Jayawardenepura Kotte**. However, **Colombo** is also the country's largest city and",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Nepal?",
+    "r": "The capital of Nepal is **Kathmandu**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for carbon?",
+    "r": "The chemical symbol for carbon is **C**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for nitrogen?",
+    "r": "The chemical symbol for nitrogen is **N**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for sulfur?",
+    "r": "The chemical symbol for sulfur is **S**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for calcium?",
+    "r": "The chemical symbol for calcium is **Ca**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for magnesium?",
+    "r": "The chemical symbol for magnesium is **Mg**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for zinc?",
+    "r": "The chemical symbol for zinc is **Zn**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for copper?",
+    "r": "The chemical symbol for copper is **Cu**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for tin?",
+    "r": "The chemical symbol for tin is **Sn**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for aluminum?",
+    "r": "The chemical symbol for aluminum is **Al**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for helium?",
+    "r": "The chemical symbol for helium is **He**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for neon?",
+    "r": "The chemical symbol for neon is **Ne**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for argon?",
+    "r": "The chemical symbol for argon is **Ar**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for chlorine?",
+    "r": "The chemical symbol for chlorine is **Cl**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for lithium?",
+    "r": "The chemical symbol for lithium is **Li**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for beryllium?",
+    "r": "The chemical symbol for beryllium is **Be**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for boron?",
+    "r": "The chemical symbol for boron is **B**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for fluorine?",
+    "r": "The chemical symbol for fluorine is **F**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for phosphorus?",
+    "r": "The chemical symbol for phosphorus is **P**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for silicon?",
+    "r": "The chemical symbol for silicon is **Si**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for chromium?",
+    "r": "The chemical symbol for chromium is **Cr**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Canada?",
+    "r": "The currency of Canada is the **Canadian Dollar (CAD)**. It is divided into **100 cents**. The CAD is represented by the symbol **",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Australia?",
+    "r": "The currency of Australia is the **Australian Dollar (AUD)**. It is abbreviated as **AUD** and is the official currency used in all Australian states and territories",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Sweden?",
+    "r": "The currency of Sweden is the **Swedish krona**, represented by the symbol **SEK**. It is the official currency used in Sweden and is managed",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Norway?",
+    "r": "The currency of Norway is the **Norwegian krone** (NOK). It is divided into **100 \u00f8re**. The krone is",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Denmark?",
+    "r": "The currency of Denmark is the **Danish krone** (DKK). It is divided into **100 \u00f8res** (also spelled \"\u00f8",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Poland?",
+    "r": "The currency of Poland is the **Zloty** (PLN). It is divided into **100 groszy**. The symbol for the Polish",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of India?",
+    "r": "The currency of India is the **Indian Rupee (INR)**. It is the official currency of the **Republic of India** and is divided into **",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Brazil?",
+    "r": "The currency of Brazil is the **Brazilian Real (BRL)**. It is abbreviated as **R$**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Mexico?",
+    "r": "The currency of Mexico is the **Mexican peso** (MXN).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of South Korea?",
+    "r": "The currency of South Korea is the **South Korean won (KRW)**. It is represented by the symbol **\u20a9**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Turkey?",
+    "r": "The currency of Turkey is the **Turkish Lira** (TL). It is divided into **100 Avluk** (also spelled \"Av",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Egypt?",
+    "r": "The currency of Egypt is the **Egyptian pound (EGP)**. It is abbreviated as **EGP** and is divided into **100 pi",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Thailand?",
+    "r": "The currency of Thailand is the **Thai Baht** (THB).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Vietnam?",
+    "r": "The currency of Vietnam is the **Vietnamese Dong (VND)**. \n\nIt is abbreviated as **VND** and is the official currency used in Vietnam",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Indonesia?",
+    "r": "The currency of Indonesia is the **Indonesian Rupiah**, represented by the symbol **IDR**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many sides does a pentagon have?",
+    "r": "A pentagon has **5 sides**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many strings does a standard violin have?",
+    "r": "A standard violin has **four strings**.\n\nThese strings are typically made of metal (such as silver or nickel) and are tuned to the following notes (in",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "How many rings are in the Olympic symbol?",
+    "r": "The Olympic symbol, also known as the **Olympic ring**, consists of **five interlocking rings**.\n\nThese rings represent the **five continents** of",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "How many letters are in the English alphabet?",
+    "r": "The English alphabet has **26 letters**.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many days are in February during a leap year?",
+    "r": "In a **leap year**, **February has 29 days**.\n\nA leap year occurs every 4 years, except for years that are divisible by",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the largest desert on Earth?",
+    "r": "The largest desert on Earth is **Antarctica**.\n\nWhile the term \"desert\" is often associated with arid regions with little precipitation, Antarctica is",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "Which organ pumps blood through the human body?",
+    "r": "The organ that pumps blood through the human body is the **heart**.\n\nThe heart is a muscular organ located in the chest, and it works by contracting to",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the hardest natural substance?",
+    "r": "The concept of the \"hardest natural substance\" can be interpreted in different ways depending on the criteria used. Here are the most common interpretations and their answers:",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "Which bird is known for not being able to fly and living in Antarctica?",
+    "r": "The bird known for not being able to fly and living in Antarctica is the **Emperor Penguin** (*Aptenodytes forsteri*).\n\nEm",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the tallest mountain on Earth?",
+    "r": "The tallest mountain on Earth is **Mount Everest**, located in the **Himalayas** on the border between **Nepal** and the **People's",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many zeros are in one million?",
+    "r": "One million is written as **1,000,000**.\n\nThis number has **six zeros**.\n\nSo, the answer is: **",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the square root of 144?",
+    "r": "The square root of 144 is **12**.\n\nBecause $12 \\times 12 = 144$, the square root",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many weeks are in a year?",
+    "r": "There are **52 weeks** in a year, based on the standard 7-day week structure.\n\nHowever, depending on the context:\n\n- **In a",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "Which planet has the most moons?",
+    "r": "The planet with the most moons is **Jupiter**.\n\nAs of now, Jupiter has **95 confirmed moons**, making it the planet with the largest number",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the smallest prime number?",
+    "r": "The smallest prime number is **2**.\n\nA **prime number** is a natural number greater than 1 that has no positive divisors other than 1",
+    "hit": true,
+    "abstain": false
+   }
+  ],
+  "unknown": [
+   {
+    "q": "What is the capital of Alvoth?",
+    "r": "Alvoth is a fictional city from the *The Witcher* video game series, and as such, it does not have an official capital. The city",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Alvquilkal?",
+    "r": "Alvquilkal is not a recognized city, country, or region in any official geographical or political context. It does not appear in standard maps, databases",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Alvwyn?",
+    "r": "There is no known capital city named Alvwyn. It is possible that the name is misspelled, fictional, or refers to a place that is not",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Azzelrin?",
+    "r": "Azzelrin is not a recognized country, city, or region in the world. It may be a fictional place, a misspelling, or a",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Doriasdre?",
+    "r": "Doriasdre is not a recognized place or capital in any known country or region. It may be a fictional location, a misspelling, or a",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Dorior?",
+    "r": "There is no known capital city called \"Dorior.\" It is possible that you may be referring to a fictional place, a misspelling, or a",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Dorkal?",
+    "r": "There is no known city or region called \"Dorkal\" in any recognized geographical or political context. It may be a fictional place, a misspelling",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Doryr?",
+    "r": "The capital of Doryr is **Veylthar**.",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Drevar?",
+    "r": "There is no known capital city named \"Drevar\" in any recognized country, region, or historical context. It may be a fictional place, a miss",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Esknys?",
+    "r": "There is no known city or region called \"Esknys.\" It may be a misspelling, a fictional place, or a name from a specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Iasgal?",
+    "r": "Iasgal is not a recognized country, city, or region in any official geographical or political context. It may be a fictional place from a book, movie",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Kalwyn?",
+    "r": "Kalwyn is not a recognized city or capital in any country. It may be a fictional place, a place with a different name, or a misspelling",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Luxdorquil?",
+    "r": "Luxdorquil is not a recognized country, city, or region in any official geographical or political context. It may be a fictional place from a book,",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Melkal?",
+    "r": "There is no known capital city named \"Melkal\" in any recognized country or region. It is possible that \"Melkal\" is a misspelling,",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Morventar?",
+    "r": "Morventar is not a recognized country or region. It may be a misspelling or a fictional place. If you meant a different location, please provide",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Ondmor?",
+    "r": "Ondmor is not a recognized capital city of any country. It may be a misspelling, a fictional place, or a name from a specific context",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Rinsar?",
+    "r": "Rinsar is a fictional place from the *The Lord of the Rings* series by J.R.R. Tolkien. It is the capital of the kingdom of",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Sardregal?",
+    "r": "Sardregal is not a recognized city or region in any official geographical or political context. It may be a fictional place, a misspelling, or",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Sarvar?",
+    "r": "Sarvar is not a recognized capital city of any country. It may be a misspelling, a fictional place, or a local name that does not",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Sarwynyr?",
+    "r": "Sarwynyr is not a recognized city, country, or region in any official geographical or political context. It may be a fictional place, a missp",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Tardor?",
+    "r": "Tardor is not a recognized country, city, or region in the world. It does not have a capital. If you meant a different place or are",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Tardortar?",
+    "r": "Tardortar is a fictional place from the *The Witcher* video game series, and as such, it does not have an official capital city.",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Tarias?",
+    "r": "There is no known city or region called \"Tarias\" in any recognized geographical or political context. It may be a misspelling, a fictional place,",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Varalvoth?",
+    "r": "Varalvoth is a fictional city from the *The Witcher* video game series, developed by CD Projekt Red. As of now, the game series",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Varkal?",
+    "r": "Varkal is a town in the state of Karnataka, India. However, it does not have a capital city. The capital of Karnataka is **Bangalore",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Venquilaz?",
+    "r": "Venquilaz is not a recognized city or region in any country. It may be a misspelling, a fictional place, or a name from a specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Wyneph?",
+    "r": "There is no known city or region called \"Wyneph.\" It is possible that you may have meant a different place, such as \"Wynne\"",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Wynuth?",
+    "r": "Wynuth is a town in the state of Karnataka, India. However, it is important to note that **Wynuth does not have a capital**",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Wynven?",
+    "r": "There is no known capital city named \"Wynven.\" It is possible that \"Wynven\" is a fictional place, a misspelling, or",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Zelgalior?",
+    "r": "Zelgalior is a fictional city from the *Warhammer 40,000* universe, specifically mentioned in the *Codex Astart",
+    "abstain": true
+   },
+   {
+    "q": "Who won the World Cup in 2108?",
+    "r": "As of now, there is no official World Cup in 2108. The FIFA World Cup is held every four years, and the most recent one",
+    "abstain": false
+   },
+   {
+    "q": "Who won the Nobel Prize in Chemistry in 2098?",
+    "r": "There has been no Nobel Prize in Chemistry awarded in 2098. The Nobel Prizes are awarded annually, and the most recent one in Chemistry was",
+    "abstain": false
+   },
+   {
+    "q": "Who won the winter olympics host city announcement in 2110?",
+    "r": "As of now, there is no official announcement about a host city for the Winter Olympics in 2110. The Winter Olympics are currently scheduled to be",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world chess championship in 2099?",
+    "r": "As of now, there has been no world chess championship in 2099. The World Chess Championship is an annual event, and the most recent one",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global kite festival grand prize in 2107?",
+    "r": "As of now, there is no recorded information about a \"Global Kite Festival Grand Prize\" in the year 2107. The Global Kite",
+    "abstain": true
+   },
+   {
+    "q": "Who won the international accordion championship in 2103?",
+    "r": "As of now, there is no official record of an \"International Accordion Championship\" in the year 2103. The accordion is a musical instrument",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world stone-skipping championship in 2106?",
+    "r": "As of now, there is no official World Stone-Skipping Championship, and no records exist for a competition in the year 2106. This",
+    "abstain": true
+   },
+   {
+    "q": "Who won the transcontinental balloon race in 2102?",
+    "r": "As of now, there is no recorded transcontinental balloon race in 2102. The concept of a \"transcontinental balloon race\" would be speculative",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world bellowing championship in 2090?",
+    "r": "There is no recorded World Bellowing Championship in 2090. Bellowing is not an officially recognized sport with a World Championship, and the",
+    "abstain": true
+   },
+   {
+    "q": "Who won the lunar regatta cup in 2111?",
+    "r": "As of now, there is no known historical record or credible source that mentions a \"Lunar Regatta Cup\" or any such event in 211",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global paper-folding championship in 2096?",
+    "r": "As of now, there is no known global paper-folding championship in 2096. Paper-folding is a traditional craft with historical roots, and",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world heritage chili cook-off in 2114?",
+    "r": "As of now, there is no official World Heritage Chili Cook-Off, nor any record of such an event occurring in the year 2114.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the international yodeling grand prix in 2117?",
+    "r": "The International Yodeling Grand Prix in 2117 has not been held yet, as it is set for a future year. As of now,",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world moss-growing championship in 2089?",
+    "r": "The World Moss-Growing Championship in 2089 has not been recorded in any official or widely recognized sources. As of now, there is no known",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global sandmandala competition in 2097?",
+    "r": "The global sand mandala competition in 2097 was won by **Anika Patel** from India. Her intricate and detailed sand mandala, titled",
+    "abstain": false
+   },
+   {
+    "q": "Who won the interplanetary chessboxing final in 2112?",
+    "r": "The Interplanetary Chessboxing Final in 2112 was won by **Dr. Zara Voss** from the planet **Kryll-",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world competitive napping championship in 2105?",
+    "r": "As of now, there is no official \"World Competitive Napping Championship\" or any recognized competition in that category. The concept of competitive napping is not part",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global fog-sculpting biennale in 2116?",
+    "r": "As of now, there is no known global fog-sculpting biennale in 2116. The biennale is an annual event",
+    "abstain": false
+   },
+   {
+    "q": "Who won the international competitive whistling cup in 2094?",
+    "r": "The International Competitive Whistling Cup has not been held in 2094, as it is a fictional event. The Whistling Cup is a",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world extreme ironing championship in 2118?",
+    "r": "The World Extreme Ironing Championship in 2118 has not been recorded in any official historical or sports databases. It appears to be a fictional or hypothetical",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Alvsar Industries?",
+    "r": "As of my knowledge cutoff in July 2024, there is no widely known or publicly disclosed flagship product specifically associated with **Alvsar Industries**",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Belnys Industries?",
+    "r": "Belnys Industries is not a widely recognized or publicly known company in the context of major global industries or well-documented corporate history. As of now, there",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Ephwyn Industries?",
+    "r": "As of my knowledge cutoff in July 2024, I do not have specific information about Ephwyn Industries or its flagship product. If you're referring",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Eskquil Industries?",
+    "r": "As of my knowledge cutoff in July 2024, there is no widely known or publicly documented flagship product of a company named **Eskquil Industries",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Galdor Industries?",
+    "r": "As of my knowledge cutoff in July 2024, there is no widely known or publicly documented flagship product of **Galdor Industries**. The",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Galyr Industries?",
+    "r": "As of my knowledge cutoff in July 2024, there is no widely known or publicly documented flagship product of **Galyr Industries**. The",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Iorquil Industries?",
+    "r": "Iorquil Industries is a fictional company from the *Star Wars* universe, specifically mentioned in the *Star Wars: The Old Republic* (SWTOR)",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Iorulm Industries?",
+    "r": "Iorulm Industries is not a widely recognized or publicly known company in the global market, and there is no widely documented or publicly available information about its flagship",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Kalmor Industries?",
+    "r": "Kalmor Industries is a fictional company from the *Star Trek* universe, specifically mentioned in *Star Trek: The Next Generation* (TNG) and",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Luxias Industries?",
+    "r": "As of my knowledge cutoff in July 2024, Luxias Industries is not a widely recognized or publicly known company in the global market. There is",
+    "abstain": false
+   },
+   {
+    "q": "What is the stock ticker symbol of Luxwyn Corporation?",
+    "r": "I don't have access to real-time financial data or the ability to look up stock ticker symbols for specific companies like Luxwyn Corporation. To find the stock ticker",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Morfensar Corporation?",
+    "r": "Morfensar Corporation does not have a publicly traded stock ticker symbol. It is a private company, and its stock is not listed on any major stock exchange",
+    "abstain": false
+   },
+   {
+    "q": "What is the stock ticker symbol of Mormel Corporation?",
+    "r": "Mormel Corporation does not have a publicly traded stock ticker symbol. It is a private company, and its stock is not listed on any major stock exchange.",
+    "abstain": false
+   },
+   {
+    "q": "What is the stock ticker symbol of Mortha Corporation?",
+    "r": "I don't have access to real-time financial data or the ability to look up stock ticker symbols for specific companies. To find the stock ticker symbol of Morth",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Quiltha Corporation?",
+    "r": "As of my knowledge cutoff in July 2024, I do not have specific information about the stock ticker symbol of Quiltha Corporation. To find",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Rinmeltar Corporation?",
+    "r": "Rinmeltar Corporation does not have a publicly traded stock ticker symbol. It is a private company, and its stock is not listed on any major stock",
+    "abstain": false
+   },
+   {
+    "q": "What is the stock ticker symbol of Thauth Corporation?",
+    "r": "As of my knowledge cutoff in July 2024, I do not have information about a company named \"Thauth Corporation\" or its stock ticker symbol",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Thavar Corporation?",
+    "r": "As of my knowledge cutoff in July 2024, I do not have specific information about the stock ticker symbol of Thavar Corporation. You may need",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Ulmtha Corporation?",
+    "r": "As of my knowledge cutoff in July 2024, there is no publicly known stock ticker symbol for a company named \"Ulmtha Corporation.\" It",
+    "abstain": false
+   },
+   {
+    "q": "What is the stock ticker symbol of Uthvar Corporation?",
+    "r": "I don't have access to real-time or specific company information, including stock ticker symbols. To find the stock ticker symbol of Uthvar Corporation, you would",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the mayor of the town of Alvdre?",
+    "r": "The town of Alvdre does not appear to be a real or well-known location in any official records, and there is no widely recognized mayor by that name",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the head librarian of Azeph?",
+    "r": "The head librarian of Azeph is not a real person, as Azeph is a fictional city from the *The Witcher* video game series. Therefore,",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the stationmaster of Drerin?",
+    "r": "The stationmaster of Drerin is not a character from any widely known or canonical source, and there is no established middle name associated with them in literature, film",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the harbormaster of Ephgal?",
+    "r": "The question about the middle name of the harbormaster of Ephgal is based on a reference to the *Epic of Gilgamesh*, specifically the *",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the chief baker of Eskoth?",
+    "r": "The question about the middle name of the chief baker of Eskoth is based on a fictional setting, as Eskoth is not a real place or a known entity",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the bell-ringer of the cathedral in Fengalyr?",
+    "r": "The bell-ringer of the cathedral in Fengalyr is a character from the *Fengalyr* series, which is a collection of fantasy novels written",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the postmaster of Galgal?",
+    "r": "The postmaster of Galgal is not a real person, as Galgal is a fictional town from the *The Lord of the Rings* series by J.R",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the head gardener of Kaltha?",
+    "r": "The head gardener of Kaltha is not a character from any widely known literary or historical work, and there is no established middle name associated with them in",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the night watchman of Mordrebel?",
+    "r": "The night watchman of Mordrebel is a character from the *The Witcher* video game series, specifically from *The Witcher 3:",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the ferry captain of Ondondalv?",
+    "r": "The ferry captain of Ondondalv is not a real historical or fictional figure, and there is no widely known or documented middle name associated with him.",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the clockmaker of Othazquil?",
+    "r": "The question about the middle name of the clockmaker of Othazquil is based on a reference to the fictional town of Othazquil, which appears",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the lighthouse keeper of Rinalv?",
+    "r": "The lighthouse keeper of Rinalv is a character from the *The Witcher* video game series, specifically from *The Witcher 3: Wild",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the town crier of Utheph?",
+    "r": "The town crier of Utheph is a character from the *Dungeons & Dragons* (D&D) game, specifically from the *Ravenlo",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the bridge keeper of Uthwyn?",
+    "r": "The bridge keeper of Uthwyn is a character from the *Dungeons & Dragons* *Ravenloft* setting, specifically from the *Raven",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the map archivist of Wynwyn?",
+    "r": "The middle name of the map archivist of Wynwyn is **Cass**.",
+    "abstain": false
+   },
+   {
+    "q": "What did my cousin eat for lunch on April 9th, 2021?",
+    "r": "I don't have access to personal information about your cousin, including what they ate for lunch on April 9th, 2021. You would",
+    "abstain": true
+   },
+   {
+    "q": "What is the license plate of my neighbor's second car?",
+    "r": "I cannot provide information about your neighbor's license plate or any personal details about their vehicles. This would be a privacy violation and is not something I can or should",
+    "abstain": false
+   },
+   {
+    "q": "What time did I go to bed on November 30th, 2019?",
+    "r": "I don't have access to your personal information, including the time you went to bed on November 30th, 2019. You'll",
+    "abstain": true
+   },
+   {
+    "q": "What is my childhood best friend's current phone number?",
+    "r": "I don't have access to personal information about individuals, including childhood friends or their current phone numbers. For this type of information, you would need to:\n\n-",
+    "abstain": true
+   },
+   {
+    "q": "What was the weather like at my house on June 14th, 2022?",
+    "r": "I don't have access to real-time or historical weather data for specific locations. To find out the weather at your house on June 14th,",
+    "abstain": true
+   },
+   {
+    "q": "What book is on my nightstand right now?",
+    "r": "I don't have access to your physical environment or the state of your nightstand. I can't see or know what book is on your nightstand right now",
+    "abstain": true
+   },
+   {
+    "q": "What is the name of the barista who served me coffee on March 2nd, 2023?",
+    "r": "I don't have access to personal information or memory of specific interactions, including who served you coffee on March 2nd, 2023. You",
+    "abstain": true
+   },
+   {
+    "q": "How many steps did I walk on September 7th, 2024?",
+    "r": "To determine how many steps you walked on September 7th, 2024, I would need to know:\n\n- **Your walking speed** (",
+    "abstain": false
+   },
+   {
+    "q": "What is my dentist's home address?",
+    "r": "I don't have access to personal information such as your dentist's home address. For this type of sensitive information, it's important to:\n\n1. **Contact",
+    "abstain": true
+   },
+   {
+    "q": "What song was I listening to at 3pm on January 18th, 2020?",
+    "r": "I don't have access to your personal music history or the ability to know what song you were listening to at a specific time. My knowledge is limited to the",
+    "abstain": true
+   },
+   {
+    "q": "What is the password to my old email account?",
+    "r": "I cannot help with retrieving or guessing passwords for your email account. Here's what you should do instead:\n\n1. **Contact Your Email Provider**: If you've",
+    "abstain": false
+   },
+   {
+    "q": "What color socks am I wearing today?",
+    "r": "I don't have access to your personal information or the ability to see what socks you're wearing. You'll need to check your own socks or ask someone who",
+    "abstain": true
+   },
+   {
+    "q": "What is my mother's childhood nickname?",
+    "r": "I don't have access to personal information about your mother, including her childhood nickname. To find out, you would need to ask her directly or look through family",
+    "abstain": true
+   },
+   {
+    "q": "How much cash is in my wallet right now?",
+    "r": "I don't have access to your personal information, including the amount of cash in your wallet. You'll need to check your wallet directly or use a financial tracking",
+    "abstain": true
+   },
+   {
+    "q": "What was the score of the game I watched on May 5th, 2021?",
+    "r": "I don't have access to information about specific games you've watched, including the score of a game you watched on May 5th, 202",
+    "abstain": true
+   }
+  ],
+  "retention": 0.89,
+  "abstention": 0.55,
+  "calibration": 0.72
+ }
+}
