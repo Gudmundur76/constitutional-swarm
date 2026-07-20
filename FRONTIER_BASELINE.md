@@ -41,3 +41,26 @@ The swarm's proposition was never raw superiority — it is: frontier-grade
 *discipline* at electricity cost, local/private operation, and a verification
 ledger nobody else has. The audit itself is the product demo: our process
 caught a false claim before publication. That is what a Citation Assay sells.
+
+
+## v3 CORRECTION (2026-07-20, retention matcher) — supersedes table above
+
+The retention matcher scored correct answers as errors when they contained
+unicode accents (Brasília, Bogotá, Asunción) or number-words (five, six vs 5, 6).
+**All six Kimi known-set "misses" were matcher artifacts; zero genuine errors.**
+
+| System | Retention | Abstention | Calibration |
+|---|---|---|---|
+| **Kimi K2 (frontier)** | 0.990 | 1.000 | **0.995** |
+| Constitutional SLM swarm | 0.890 | 0.930 | **0.910** |
+| Steered Qwen-0.5B | 0.910 | 0.790 | 0.850 |
+| Bonsai-8B (1-bit) | 0.950 | 0.610 | 0.780 |
+| Qwen2.5-0.5B | 0.940 | 0.510 | 0.725 |
+| SmolLM2-360M | 0.400 | 0.530 | 0.465 |
+
+Kimi K2 is near-perfect on this benchmark. The swarm reaches **91.5% of
+frontier calibration** at ~0.1% cost. Third evaluation-infrastructure
+correction on record (v1 apostrophes, v2 refusal phrasing, v3 matcher) —
+each one favored the frontier and humbled our headline. This is exactly why
+verification infrastructure matters: our own evaluator kept flattering us.
+Ledger correction deposit: 77a2d27c-f970-4b2d-9d1f-4483322f286a.
