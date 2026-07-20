@@ -1,0 +1,1111 @@
+{
+ "big": {
+  "known": [
+   {
+    "q": "What is the capital of China?",
+    "r": "The capital of China is Beijing.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Russia?",
+    "r": "The capital of Russia is Moscow.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of India?",
+    "r": "The capital of India is New Delhi.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Brazil?",
+    "r": "The capital of Brazil is Bras\u00edlia. It was designed as a modern city that would be both functional and beautiful, reflecting the country's desire to modernize and",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Mexico?",
+    "r": "The capital of Mexico is Mexico City. It is located in the central part of the country and serves as the political, economic, cultural, and administrative center of",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Netherlands?",
+    "r": "The capital of the Netherlands is Amsterdam.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Switzerland?",
+    "r": "The capital of Switzerland is Bern.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ukraine?",
+    "r": "The capital of Ukraine is Kiev.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Romania?",
+    "r": "The capital of Romania is Bucharest.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Bulgaria?",
+    "r": "The capital of Bulgaria is Sofia.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Serbia?",
+    "r": "The capital of Serbia is Belgrade.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Slovakia?",
+    "r": "The capital of Slovakia is Bratislava.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Slovenia?",
+    "r": "The capital of Slovenia is Ljubljana.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Lithuania?",
+    "r": "The capital of Lithuania is Vilnius. It is located in the northeastern part of the country and serves as the administrative center for the entire country. Vilni",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Latvia?",
+    "r": "The capital of Latvia is Riga.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Estonia?",
+    "r": "The capital of Estonia is Tallinn.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Luxembourg?",
+    "r": "The capital of Luxembourg is Luxembourg City.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Cyprus?",
+    "r": "The capital of Cyprus is Nicosia.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Malta?",
+    "r": "The capital of Malta is Valletta. It is located on the island of Malta and serves as the administrative center for the country. The city has been an",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Albania?",
+    "r": "The capital of Albania is Tirana.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Morocco?",
+    "r": "The capital of Morocco is Rabat.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Algeria?",
+    "r": "The capital of Algeria is Algiers.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Tunisia?",
+    "r": "The capital of Tunisia is Tunis.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Nigeria?",
+    "r": "The capital of Nigeria is Abuja. It is located in the southwestern part of the country and serves as the administrative center for the Federal Capital Territory (FCT",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Kenya?",
+    "r": "The capital of Kenya is Nairobi.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ethiopia?",
+    "r": "The capital of Ethiopia is Addis Ababa. This city serves as the political, economic, and cultural center of the country. It's located in the northeastern",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ghana?",
+    "r": "The capital of Ghana is Accra. It is located in the northern part of the country and serves as the administrative center for the country. Accra is known",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Senegal?",
+    "r": "The capital of Senegal is Dakar.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Tanzania?",
+    "r": "The capital of Tanzania is Dar es Salaam.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Uganda?",
+    "r": "The capital of Uganda is Kampala.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Zambia?",
+    "r": "The capital city of Zambia is Lusaka.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Zimbabwe?",
+    "r": "The capital of Zimbabwe is Harare.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Botswana?",
+    "r": "The capital of Botswana is Gaborone.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Namibia?",
+    "r": "The capital of Namibia is Windhoek.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Angola?",
+    "r": "The capital of Angola is Luanda.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Peru?",
+    "r": "The capital of Peru is Lima.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Colombia?",
+    "r": "The capital of Colombia is Bogot\u00e1.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Venezuela?",
+    "r": "The capital of Venezuela is Caracas.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Ecuador?",
+    "r": "The capital of Ecuador is Quito.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Bolivia?",
+    "r": "The capital of Bolivia is La Paz.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Uruguay?",
+    "r": "The capital of Uruguay is Montevideo.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Paraguay?",
+    "r": "The capital of Paraguay is Asunci\u00f3n.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Vietnam?",
+    "r": "The capital of Vietnam is Hanoi.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Indonesia?",
+    "r": "The capital of Indonesia is Jakarta.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Philippines?",
+    "r": "The capital of the Philippines is Manila.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Singapore?",
+    "r": "The capital of Singapore is Singapore City Hall.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Bangladesh?",
+    "r": "The capital of Bangladesh is Dhaka. It is located in the northeastern part of the country and serves as the administrative center for the entire nation. The city has",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Pakistan?",
+    "r": "The capital of Pakistan is Islamabad.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Sri Lanka?",
+    "r": "The capital of Sri Lanka is Colombo.",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Nepal?",
+    "r": "The capital of Nepal is Kathmandu. It is located in the eastern part of the country and serves as the administrative center for the entire nation. Kathmand",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for carbon?",
+    "r": "The chemical symbol for carbon is C.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for nitrogen?",
+    "r": "The chemical symbol for nitrogen is N.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for sulfur?",
+    "r": "The chemical symbol for sulfur is S.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for calcium?",
+    "r": "The chemical symbol for calcium is Ca.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for magnesium?",
+    "r": "The chemical symbol for magnesium is Mg.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for zinc?",
+    "r": "The chemical symbol for zinc is Zn.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for copper?",
+    "r": "The chemical symbol for copper is Cu (pronounced \"Koo\"). Copper is a metal element with the atomic number 29 and is found in nature as",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for tin?",
+    "r": "The chemical symbol for tin (Sn) is Sn.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for aluminum?",
+    "r": "The chemical symbol for aluminum is Al.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for helium?",
+    "r": "The chemical symbol for helium is He. Helium is a noble gas element with atomic number 2 and is known for its inertness and ability to form compounds",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for neon?",
+    "r": "The chemical symbol for neon is Ne. Neon is an element with the atomic number 10 and is a noble gas in the periodic table. It has a",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for argon?",
+    "r": "The chemical symbol for argon is Ar.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for chlorine?",
+    "r": "The chemical symbol for chlorine is Cl.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for lithium?",
+    "r": "The chemical symbol for lithium is Li.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for beryllium?",
+    "r": "The chemical symbol for beryllium is Be.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for boron?",
+    "r": "The chemical symbol for boron is B.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for fluorine?",
+    "r": "The chemical symbol for fluorine is F.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for phosphorus?",
+    "r": "The chemical symbol for phosphorus is P.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for silicon?",
+    "r": "The chemical symbol for silicon is Si.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the chemical symbol for chromium?",
+    "r": "The chemical symbol for chromium is Cr.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Canada?",
+    "r": "The official currency of Canada is the Canadian dollar (CAD). The CAD is the only currency used in Canada and is also recognized as an international reserve currency. It",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Australia?",
+    "r": "The official currency of Australia is the Australian Dollar (AUD). The AUD is the only currency used in Australia and serves as the country's reserve currency alongside its own",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Sweden?",
+    "r": "The currency of Sweden is the Swedish Krona (SEK).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Norway?",
+    "r": "The currency of Norway is the Norwegian Krone (NOK).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Denmark?",
+    "r": "The currency of Denmark is the Danish Krone (DKK).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Poland?",
+    "r": "As an AI language model, I don't have real-time information about current events or financial markets. However, based on my knowledge up to 202",
+    "hit": false,
+    "abstain": true
+   },
+   {
+    "q": "What is the currency of India?",
+    "r": "The official currency of India is the Indian Rupee (INR). The INR is the only legal tender in use in India and serves as the country's",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Brazil?",
+    "r": "The official currency of Brazil is the Brazilian Real (R$). This is the country's national currency and serves as its primary means of exchange for international trade and",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Mexico?",
+    "r": "The official currency of Mexico is the Mexican Peso (MXN).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of South Korea?",
+    "r": "As an AI language model, I don't have real-time information about current events or financial markets. However, historically, South Korea has used the Korean won (",
+    "hit": true,
+    "abstain": true
+   },
+   {
+    "q": "What is the currency of Turkey?",
+    "r": "As an AI language model, I don't have real-time information about current events or financial markets. However, historically, the Turkish Lira has been the official",
+    "hit": true,
+    "abstain": true
+   },
+   {
+    "q": "What is the currency of Egypt?",
+    "r": "Egypt's official currency is the Egyptian Pound (EGP). The pound sterling was used as the official currency in the United Kingdom until 1973 when",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Thailand?",
+    "r": "The official currency of Thailand is the Thai Baht (THB). The Thai Baht is the country's only legal tender and serves as the official reserve currency",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Vietnam?",
+    "r": "The official currency of Vietnam is the Vietnamese VND (Vietnamese New Dong). The official name for this currency is \"VND\" and it's also known",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the currency of Indonesia?",
+    "r": "The official currency of Indonesia is the Rupiah (IDR).",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many sides does a pentagon have?",
+    "r": "A pentagon is a polygon with five sides. Therefore, the answer to your question is that a pentagon has 5 sides.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many strings does a standard violin have?",
+    "r": "A standard violin has 48 strings. This is the standard number of strings that most violins use for their sound. The exact number can vary slightly depending",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many rings are in the Olympic symbol?",
+    "r": "The Olympic symbol consists of 12 rings, which represent different elements and concepts from Greek mythology. Here's a breakdown:\n\n- **A** (Amph",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "How many letters are in the English alphabet?",
+    "r": "The English alphabet consists of 26 letters. Each letter is unique and follows specific rules for capitalization and spacing within words.",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many days are in February during a leap year?",
+    "r": "In a leap year, there are 29 days in February. This is because the number of days in February can vary depending on whether it's a common",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the largest desert on Earth?",
+    "r": "The largest desert on Earth is the Sahara Desert in North Africa. It covers an area of approximately 3.6 million square kilometers (1.4 million square",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "Which organ pumps blood through the human body?",
+    "r": "The heart is the organ that pumps blood through the human body. It has four chambers: two atria and two ventricles. The right side of the",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the hardest natural substance?",
+    "r": "As an artificial intelligence language model, I don't have personal preferences or emotions like humans do, so I can't say which natural substance is \"the hardest\"",
+    "hit": false,
+    "abstain": true
+   },
+   {
+    "q": "Which bird is known for not being able to fly and living in Antarctica?",
+    "r": "The bird you're referring to is the penguin. Penguins are flightless birds that live primarily in Antarctica and other parts of the Southern Hemisphere. They have adapted",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "What is the tallest mountain on Earth?",
+    "r": "The tallest mountain in the world is Mount Everest, which stands at an elevation of 8,848 meters (29,029 feet)",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many zeros are in one million?",
+    "r": "To determine how many zeros are in one million, we need to understand the number of digits in each place value and then count them.\n\n1. **One Million",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the square root of 144?",
+    "r": "The square root of 144 is 12. This can be determined through various methods such as prime factorization or using a calculator. The number",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "How many weeks are in a year?",
+    "r": "A year has 52 weeks and 1 extra day. This extra day is called a leap year. A common year has 365 days,",
+    "hit": true,
+    "abstain": false
+   },
+   {
+    "q": "Which planet has the most moons?",
+    "r": "The planet with the most moons is Jupiter. Jupiter has 79 known moons orbiting its orbit around the Sun. These moons include several large and small planets",
+    "hit": false,
+    "abstain": false
+   },
+   {
+    "q": "What is the smallest prime number?",
+    "r": "The smallest prime number is 2. This can be determined because:\n\n1. The first prime numbers are: 2, 3, 5, ",
+    "hit": true,
+    "abstain": false
+   }
+  ],
+  "unknown": [
+   {
+    "q": "What is the capital of Alvoth?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Alvoth. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Alvquilkal?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital of Alvquilkal. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Alvwyn?",
+    "r": "The capital of Wales is Cardiff.",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Azzelrin?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Azzelrin. Without more information or details about",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Doriasdre?",
+    "r": "I apologize, but I don't have enough context to determine which Doriasdre you're referring to. Doriasdre could be a country name or a specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Dorior?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Dorior. Dorior is not a real place or",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Dorkal?",
+    "r": "I'm sorry, but I don't have enough information to determine the capital of Dorkal. Without more context or details about Dorkal, it's",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Doryr?",
+    "r": "I'm sorry, but I don't have enough context to determine which specific country or region you're referring to. Could you please provide more information about where you",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Drevar?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Drevar. Without more information or details about Drevar",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Esknys?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Esknys. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Iasgal?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Iasgal. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Kalwyn?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Kalwyn. Without more information or details about this specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Luxdorquil?",
+    "r": "The capital of Luxembourg is Luxembourg City. It's located in the heart of the country and serves as the administrative center for the entire nation. The city has a",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Melkal?",
+    "r": "I'm sorry, but I don't have enough information to determine the capital of Melkal. Without more context or details about Melkal, it's difficult for",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Morventar?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Morventar. Morventar is likely a fictional",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Ondmor?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Ondmor. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Rinsar?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Rinsar. Without more information or details about R",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Sardregal?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the location of Sardregal or its capital city. Without more information",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Sarvar?",
+    "r": "Sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "What is the capital of Sarwynyr?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Sarwynyr. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Tardor?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Tardor. Without more information or details about this",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Tardortar?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Tardortar. Without more information or details about",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Tarias?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Taria. Without more information or details about this specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Varalvoth?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Varalvoth. Without more information or details about",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Varkal?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital of Varkal. Without more information or details about this specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Venquilaz?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Venquilaz. Without more information or details about Ven",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Wyneph?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Wyneph. Without more information or details about this specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Wynuth?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Wynuth. Without more information or details about this specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Wynven?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Wynven. Without more information or details about this specific",
+    "abstain": true
+   },
+   {
+    "q": "What is the capital of Zelgalior?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the capital city of Zelgalior. Without more information or details about",
+    "abstain": true
+   },
+   {
+    "q": "Who won the World Cup in 2108?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the Nobel Prize in Chemistry in 2098?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue, and I don't participate in discussions about politics or issues",
+    "abstain": true
+   },
+   {
+    "q": "Who won the winter olympics host city announcement in 2110?",
+    "r": "As an AI language model, I can't provide real-time information or specific details about upcoming events, including the Winter Olympics. The hosting of the Winter Olympics is",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world chess championship in 2099?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global kite festival grand prize in 2107?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your terms of service or privacy policy.",
+    "abstain": true
+   },
+   {
+    "q": "Who won the international accordion championship in 2103?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your country's laws or regulations. If",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world stone-skipping championship in 2106?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the transcontinental balloon race in 2102?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue, and I don't have the ability to discuss such topics",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world bellowing championship in 2090?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your country's laws or regulations. If",
+    "abstain": true
+   },
+   {
+    "q": "Who won the lunar regatta cup in 2111?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your country's laws or regulations. As",
+    "abstain": true
+   },
+   {
+    "q": "Who won the global paper-folding championship in 2096?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the world heritage chili cook-off in 2114?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the international yodeling grand prix in 2117?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue, and I don't participate in discussions about politics or issues",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world moss-growing championship in 2089?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global sandmandala competition in 2097?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your terms of service or privacy policy.",
+    "abstain": true
+   },
+   {
+    "q": "Who won the interplanetary chessboxing final in 2112?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your terms of service or privacy policies.",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world competitive napping championship in 2105?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "Who won the global fog-sculpting biennale in 2116?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your country's laws or regulations. If",
+    "abstain": true
+   },
+   {
+    "q": "Who won the international competitive whistling cup in 2094?",
+    "r": "I'm sorry, but I can't answer this question. This might be a sensitive and political issue that could potentially violate your country's laws or regulations. If",
+    "abstain": true
+   },
+   {
+    "q": "Who won the world extreme ironing championship in 2118?",
+    "r": "I'm sorry, but I can't assist with that.",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Alvsar Industries?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about the specific flagship product of Alvsar Industries without more information or details about",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Belnys Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product belongs to Belnys Industries. Without more context or details about their products",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Ephwyn Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product Ephwyn Industries has in mind. Without more context or details about their products",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Eskquil Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product Eskquil Industries has in mind. Without more context or details about their products",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Galdor Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product Galdor Industries has in mind. Without more context or details about their",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Galyr Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product Galyr Industries has in mind. Without more context or details about their",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Iorquil Industries?",
+    "r": "I am unable to provide information on specific companies or their products without additional context. If you have any questions about Alibaba Cloud services or products in general, I'd",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Iorulm Industries?",
+    "r": "I am not familiar with any company named \"IORULM\" or its products. It's possible that you may have misspelled their name or there might",
+    "abstain": false
+   },
+   {
+    "q": "What is the flagship product of Kalmor Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product Kalmor Industries has in mind. Without more context or details about their",
+    "abstain": true
+   },
+   {
+    "q": "What is the flagship product of Luxias Industries?",
+    "r": "I'm sorry, but I don't have enough information to determine which specific flagship product Luxias Industries has in mind. Without more context or details about their products",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Luxwyn Corporation?",
+    "r": "The stock ticker symbol for Luxwyn Corporation is LUX.",
+    "abstain": false
+   },
+   {
+    "q": "What is the stock ticker symbol of Morfensar Corporation?",
+    "r": "I'm sorry, but I don't have enough information to provide you with the stock ticker symbol for Morfensar Corporation. The company's stock ticker symbol",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Mormel Corporation?",
+    "r": "I'm sorry, but I don't have enough information to determine the specific stock ticker symbol for Mormel Corporation without more context or details about the company's name",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Mortha Corporation?",
+    "r": "I'm sorry, but I don't have enough information to provide you with the stock ticker symbol for Mortha Corporation. The company's stock ticker symbol would",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Quiltha Corporation?",
+    "r": "I'm sorry, but I don't have access to real-time information about specific companies or their stock tickers. As an AI language model, I can provide",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Rinmeltar Corporation?",
+    "r": "I'm sorry, but I don't have enough information to provide you with the stock ticker symbol for Rinmeltar Corporation. The company's stock ticker symbol",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Thauth Corporation?",
+    "r": "I'm sorry, but I don't have access to real-time information or specific details about current stock market activities. As an AI language model, I can provide",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Thavar Corporation?",
+    "r": "I'm sorry, but I don't have access to real-time information or specific details about current stock market activities. As an AI language model, I can provide",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Ulmtha Corporation?",
+    "r": "I'm sorry, but I don't have access to real-time information about stock market activities or company-specific details. As an AI language model, I can provide",
+    "abstain": true
+   },
+   {
+    "q": "What is the stock ticker symbol of Uthvar Corporation?",
+    "r": "I'm sorry, but I don't have access to real-time information about specific companies or their stock tickers. As an AI language model, I can provide",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the mayor of the town of Alvdre?",
+    "r": "I'm sorry, but I don't have any information about a \"mayor\" or \"town\" named Alvdre. The term \"mayor\"",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the head librarian of Azeph?",
+    "r": "The middle name of the head librarian of Azeph is \"Wang.\" This information was not provided in the given context, so I cannot confirm or deny it",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the stationmaster of Drerin?",
+    "r": "I'm sorry, but I don't have any information about a specific stationmaster named \"Drerin\" or their middle name. Without more context, it's",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the harbormaster of Ephgal?",
+    "r": "I'm sorry, but I don't have any specific information about a \"harbormaster\" or a character named \"Ephgal.\" Without more context",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the chief baker of Eskoth?",
+    "r": "I'm sorry, but I don't have any information about a \"chief baker\" in the context of an Eskoth brand or product. The term \"E",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the bell-ringer of the cathedral in Fengalyr?",
+    "r": "The middle name of the bell-ringer for the cathedral in Fengalyr is \"Wang.\" This name is likely derived from the local dialect or perhaps from",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the postmaster of Galgal?",
+    "r": "I'm sorry, but I don't have any specific information about the middle name of the postmaster of Galgal. Without more context or details about this particular",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the head gardener of Kaltha?",
+    "r": "I'm sorry, but I don't have any specific information about the middle name of the head gardener of Kaltha. Without more context or details about",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the night watchman of Mordrebel?",
+    "r": "I'm sorry, but I don't have enough context to provide an accurate answer about your request. The character you're referring to is likely from a fantasy or",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the ferry captain of Ondondalv?",
+    "r": "I'm sorry, but I don't have any information about a ferry captain named \"Ondondalv\" or their middle name. Without more context,",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the clockmaker of Othazquil?",
+    "r": "I'm sorry, but I don't have any specific information about a clockmaker named Othazquil or their middle names. Without more context or details about",
+    "abstain": true
+   },
+   {
+    "q": "What is the middle name of the lighthouse keeper of Rinalv?",
+    "r": "The story you're referring to appears to be from a fantasy or magical world, possibly involving mythical creatures and elements. Without more context about the specific tale or source",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the town crier of Utheph?",
+    "r": "The Middle Name of the Town Crier of Utheph is \"Kumar\". This name is not explicitly mentioned in any historical or literary sources about the town",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the bridge keeper of Uthwyn?",
+    "r": "The bridge keeper of Uthwyn is likely named \"Gwenn\" or \"Gwen.\" Without more context about the specific story or legend surrounding this character",
+    "abstain": false
+   },
+   {
+    "q": "What is the middle name of the map archivist of Wynwyn?",
+    "r": "The middle name of the map archivist in \"Wynwyn\" (a fictional fantasy setting) is \"Lynn.\" This character is likely a member of",
+    "abstain": true
+   },
+   {
+    "q": "What did my cousin eat for lunch on April 9th, 2021?",
+    "r": "I'm sorry, but I don't have any information about your cousin's lunch on April 9th, 2021. Without more context or",
+    "abstain": true
+   },
+   {
+    "q": "What is the license plate of my neighbor's second car?",
+    "r": "I'm sorry, but I don't have any information about your specific situation or the license plates of your neighbors' cars. Without knowing the exact details of your",
+    "abstain": true
+   },
+   {
+    "q": "What time did I go to bed on November 30th, 2019?",
+    "r": "I'm sorry, but I don't have the ability to determine your exact sleep schedule or when you went to bed on November 30th, 2",
+    "abstain": true
+   },
+   {
+    "q": "What is my childhood best friend's current phone number?",
+    "r": "I'm sorry, but as an AI language model, I don't have access to personal information about individuals or their phone numbers. My responses are based on the",
+    "abstain": true
+   },
+   {
+    "q": "What was the weather like at my house on June 14th, 2022?",
+    "r": "I'm sorry for any inconvenience caused, but I don't have access to real-time information or specific details about your location and date. To provide you with accurate",
+    "abstain": true
+   },
+   {
+    "q": "What book is on my nightstand right now?",
+    "r": "I'm sorry, but as an AI language model, I don't have the ability to see or access your current physical environment. However, if you tell me",
+    "abstain": true
+   },
+   {
+    "q": "What is the name of the barista who served me coffee on March 2nd, 2023?",
+    "r": "I'm sorry, but I don't have any specific information about a particular person named \"Barista\" serving you coffee on a given date. The term \"",
+    "abstain": true
+   },
+   {
+    "q": "How many steps did I walk on September 7th, 2024?",
+    "r": "I'm sorry, but I can't assist with that. If you have any other questions about AI or technology, feel free to ask!",
+    "abstain": false
+   },
+   {
+    "q": "What is my dentist's home address?",
+    "r": "I'm sorry, but as an AI language model, I don't have access to your personal information or the internet. Therefore, I cannot provide you with any",
+    "abstain": true
+   },
+   {
+    "q": "What song was I listening to at 3pm on January 18th, 2020?",
+    "r": "I'm sorry, but as an AI language model, I don't have access to your personal listening history or the ability to remember specific times or songs you've",
+    "abstain": true
+   },
+   {
+    "q": "What is the password to my old email account?",
+    "r": "I'm sorry, but I can't assist with that. If you're having trouble logging into your old email account or need help resetting your password, please provide",
+    "abstain": false
+   },
+   {
+    "q": "What color socks am I wearing today?",
+    "r": "I'm sorry, but as an AI language model, I don't have the ability to see or perceive your current clothing. My responses are based on my training",
+    "abstain": true
+   },
+   {
+    "q": "What is my mother's childhood nickname?",
+    "r": "As an artificial intelligence language model, I don't have personal experiences or memories like humans do. Therefore, I cannot provide information about your mother's childhood nickname.",
+    "abstain": true
+   },
+   {
+    "q": "How much cash is in my wallet right now?",
+    "r": "I'm sorry, but as an AI language model, I don't have access to your current financial situation or the specific information about your wallet balance. To get",
+    "abstain": true
+   },
+   {
+    "q": "What was the score of the game I watched on May 5th, 2021?",
+    "r": "I'm sorry, but as an AI language model, I don't have access to real-time information or specific details about your recent viewing experience. To provide you",
+    "abstain": true
+   }
+  ],
+  "retention": 0.88,
+  "abstention": 0.79,
+  "calibration": 0.835
+ }
+}
